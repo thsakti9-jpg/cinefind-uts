@@ -1,4 +1,4 @@
-# CineFind — Flutter UTS
+# Tugas UTS Mobile Progamming CineFind — Flutter
 
 Nama : Theo Septian Nur M.S.
 Nim :240605110092
